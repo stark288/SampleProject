@@ -5,4 +5,4 @@ Request to merge
 new validate
 QA completed
 new validation
-This is sample demo1..
+This is sample demo1
