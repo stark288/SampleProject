@@ -4,4 +4,5 @@ validation for build
 Request to merge
 new validate
 QA completed
-validated..
+validated
+this is sample edit for the project..
